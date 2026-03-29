@@ -250,14 +250,5 @@ Meta: convertirme en candidato contrateable.
 
 ---
 
-## Expectativa salarial
-
-| Perfil | Junior LATAM | Remoto internacional |
-|--------|-------------|---------------------|
-| SysAdmin Linux | $800–$1,500 USD/mes | $1,500–$3,000 USD/mes |
-| DevOps/Cloud | $1,000–$2,000 USD/mes | $2,000–$4,000 USD/mes |
-| Ciberseguridad | $900–$1,800 USD/mes | $1,800–$3,500 USD/mes |
-
----
 
 *Documentación en español — La Paz, Bolivia*
