@@ -57,7 +57,7 @@
 
 ### Mes 1 — El sistema de archivos y la navegación
 
-| Semestre - Mes - N° Tema | Tema | Estado |
+| Semestre 1 - Mes 1 | Tema | Estado |
 |:------------------------:|:----|:-------:|
 | `S1M01-0001` | ¿Qué es Linux? Historia, distribuciones, por qué importa | ✅ |
 | `S1M01-0002` | La terminal — qué es un shell, bash, cómo abrir la terminal | ✅ |
@@ -70,7 +70,7 @@
 
 ### Mes 2 — Permisos, usuarios y búsqueda
 
-| Semestre - Mes - N° Tema | Tema | Estado |
+| Semestre 1 - Mes 2 | Tema | Estado |
 |:------------------------:|:----|:-------:|
 | `S1M02-0009` | Usuarios y grupos — whoami, id, who, w | ⬜ |
 | `S1M02-0010` | Creación de usuarios — useradd, usermod, userdel, passwd | ⬜ |
@@ -84,7 +84,7 @@
 
 ### Mes 3 — El editor de texto y el shell avanzado
 
-| Semestre - Mes - N° Tema | Tema | Estado |
+| Semestre 1 - Mes 3 | Tema | Estado |
 |:------------------------:|:----|:-------:|
 | `S1M03-0001` | nano — abrir, editar, guardar, buscar | ⬜ |
 | `S1M03-0002` | vim — modos, comandos básicos | ⬜ |
@@ -98,7 +98,7 @@
 
 ### Mes 4 — Gestión del sistema
 
-| Semestre - Mes - N° Tema | Tema | Estado |
+| Semestre 1 - Mes 4 | Tema | Estado |
 |:------------------------:|:----|:-------:|
 | `S1M04-0001` | Procesos — ps aux, top, htop, pgrep | ⬜ |
 | `S1M04-0002` | Señales — kill, kill -9, killall, pkill | ⬜ |
@@ -113,7 +113,7 @@
 
 ### Meses 5-6 — Redes básicas y SSH
 
-| Semestre - Mes - N° Tema | Tema | Estado |
+| Semestre 1 - Mes 5 - 6 | Tema | Estado |
 |:------------------------:|:----|:-------:|
 | `S1M05-0001` | Conceptos de red — IP, máscara, puerta de enlace, DNS | ⬜ |
 | `S1M05-0002` | Modelo OSI simplificado | ⬜ |
@@ -138,7 +138,7 @@
 
 ### Meses 7-8 — Scripting en Bash
 
-| Semestre - Mes - N° Tema | Tema | Estado |
+| Semestre 2 - Mes 7 - 8 | Tema | Estado |
 |:------------------------:|:----|:-------:|
 | `S2M07-0001` | Estructura de un script — shebang, comentarios | ⬜ |
 | `S2M07-0002` | Variables — declaración, variables especiales $0 $1 $# | ⬜ |
@@ -153,7 +153,7 @@
 
 ### Meses 9-10 — Servidores web y servicios
 
-| Semestre - Mes - N° Tema | Tema | Estado |
+| Semestre 2 - Mes  9 - 10 | Tema | Estado |
 |:------------------------:|:----|:-------:|
 | `S2M09-0001` | Qué es un servidor web — HTTP/HTTPS | ⬜ |
 | `S2M09-0002` | Nginx — instalación, configuración, virtual hosts | ⬜ |
@@ -166,7 +166,7 @@
 
 ### Meses 11-12 — Seguridad y almacenamiento
 
-| Semestre - Mes - N° Tema | Tema | Estado |
+| Semestre 2 - Mes 11 - 12 | Tema | Estado |
 |:------------------------:|:----|:-------:|
 | `S2M11-0001` | Hardening — principio de mínimo privilegio | ⬜ |
 | `S2M11-0002` | SELinux y AppArmor | ⬜ |
@@ -189,7 +189,7 @@ Meta: elegir ruta profesional y profundizar.
 
 ### Meses 13-14 — Base común: Python y Git
 
-| Semestre - Mes - N° Tema | Tema | Estado |
+| Semestre 3 - Mes  13 - 14 | Tema | Estado |
 |:------------------------:|:----|:-------:|
 | `S3M13-0001` | Python básico — variables, tipos, condicionales, bucles | ⬜ |
 | `S3M13-0002` | Manejo de archivos con Python | ⬜ |
