@@ -59,7 +59,7 @@
 
 | Semestre 1 - Mes 1 | Tema | Estado |
 |:------------------------:|:----|:-------:|
-| `S1M01-0001` | ¿Qué es Linux? Historia, distribuciones, por qué importa | ✅ |
+| `S1M01-0001` | [¿Qué es Linux? Historia, distribuciones, por qué importa](./docs/Semestre-1/M1/0001.md)| ✅ |
 | `S1M01-0002` | La terminal — qué es un shell, bash, cómo abrir la terminal | ✅ |
 | `S1M01-0003` | El árbol de directorios — /, /etc, /var, /usr, /home, /proc | ✅ |
 | `S1M01-0004` | Navegación — ls, ls -la, cd, pwd, tree | ✅ |
