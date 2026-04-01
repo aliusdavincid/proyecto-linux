@@ -61,12 +61,12 @@
 |:------------------------:|:----|:-------:|
 | `S1M01-0001` | [¿Qué es Linux?](./docs/Semestre-1/M1/0001.md)| ✅ |
 | `S1M01-0002` | [La terminal — qué es un shell, bash, cómo abrir la terminal](./docs/Semestre-1/M1/0002.md)| ✅ |
-| `S1M01-0003` | El árbol de directorios — /, /etc, /var, /usr, /home, /proc | ✅ |
-| `S1M01-0004` | Navegación — ls, ls -la, cd, pwd, tree | ✅ |
-| `S1M01-0005` | Operaciones con archivos — cp, mv, rm, mkdir, rmdir, touch | ✅ |
-| `S1M01-0006` | Ver contenido — cat, less, more, head, tail | ✅ |
-| `S1M01-0007` | Rutas absolutas vs relativas | ✅ |
-| `S1M01-0008` | Wildcards — *, ?, [] | ✅ |
+| `S1M01-0003` | [El árbol de directorios — /, /etc, /var, /usr, /home, /proc](./docs/Semestre-1/M1/0003.md) | ✅ |
+| `S1M01-0004` | Navegación — ls, ls -la, cd, pwd, tree | ⬜|
+| `S1M01-0005` | Operaciones con archivos — cp, mv, rm, mkdir, rmdir, touch | ⬜ |
+| `S1M01-0006` | Ver contenido — cat, less, more, head, tail | ⬜ |
+| `S1M01-0007` | Rutas absolutas vs relativas | ⬜|
+| `S1M01-0008` | Wildcards — *, ?, [] | ⬜ |
 
 ### Mes 2 — Permisos, usuarios y búsqueda
 
